@@ -1,0 +1,8 @@
+apple яблоко
+banana банан
+cat кот
+dog собака
+elephant слон
+fox лиса
+grape виноград
+house дом
