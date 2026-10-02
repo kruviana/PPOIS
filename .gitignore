@@ -1,8 +1,14 @@
+# Скомпилированные исполняемые файлы под Mac
 test_runner
 test_runner_post
 dictionary_app
 post_machine
+test_runner_post
+
+# Локальные папки документации Doxygen
 html/
 latex/
 Doxyfile
+
+# Скрытые файлы операционной системы macOS
 .DS_Store
