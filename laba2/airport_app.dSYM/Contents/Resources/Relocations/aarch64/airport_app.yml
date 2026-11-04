@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dianakrupovskaa/Downloads/airport_cpp_project/airport_app'
+relocations:     []
+...
